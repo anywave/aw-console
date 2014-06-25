@@ -1,0 +1,2 @@
+name=Python Console
+description=Command line console for testing with AnyWave API
